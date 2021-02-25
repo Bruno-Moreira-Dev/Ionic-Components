@@ -20,6 +20,26 @@ export class AppComponent {
       title: 'Botões',
       url: 'buttons',
       icon: 'construct'
+    },
+    {
+      title: 'Alert',
+      url: 'alert',
+      icon: 'warning'
+    },
+    {
+      title: 'Action Sheet',
+      url: 'action-sheet',
+      icon: 'logo-microsoft'
+    },
+    {
+      title: 'Badge',
+      url: 'badge',
+      icon: 'medal'
+    },
+    {
+      title: 'Card',
+      url: 'card',
+      icon: 'card'
     }
   ];
   public labels = ['Family', 'Friends', 'Notes', 'Work', 'Travel', 'Reminders'];
